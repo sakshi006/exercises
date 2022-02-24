@@ -5,3 +5,7 @@
 3. [Show Password - ex5](https://codesandbox.io/s/ex5-show-password-9p8pck?file=/src/App.js)
 
 4. [Designer Tool - ex6](https://codesandbox.io/s/ex6-designer-tool-mini-figma-vwvcxn)
+
+5.
+
+6. [Switch Tabs - ex8](https://codesandbox.io/s/ex8-switch-tabs-kb1xj)
