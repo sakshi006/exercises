@@ -6,6 +6,6 @@
 
 4. [Designer Tool - ex6](https://codesandbox.io/s/ex6-designer-tool-mini-figma-vwvcxn)
 
-5.
+5. [Add to cart - ex7](https://codesandbox.io/s/ex7-add-to-cart-qkde7h)
 
 6. [Switch Tabs - ex8](https://codesandbox.io/s/ex8-switch-tabs-kb1xj)
