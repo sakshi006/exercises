@@ -11,3 +11,5 @@
 6. [Switch Tabs - ex8](https://codesandbox.io/s/ex8-switch-tabs-kb1xj)
 
 7. [Show Modal - ex9](https://codesandbox.io/s/ex9-toast-70k09c?file=/src/App.js)
+
+8. [Todo/StrikeThrough : ex10](https://codesandbox.io/s/ex10-todo-strikethrough-9t4uw7?file=/src/App.js)
